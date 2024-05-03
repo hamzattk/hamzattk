@@ -3,6 +3,7 @@
  <style>
         body {
             background-color: black;}
+            color: #00FF00;
     </style>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
